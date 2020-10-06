@@ -64,7 +64,7 @@
 - [Headphone Organizer](https://www.instructables.com/HeadphoneholderSilly-Solution/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...][instructables]
 
 ---
 
