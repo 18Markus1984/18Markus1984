@@ -1,6 +1,6 @@
 ### Hi there, I'm Markus - aka [MaxSiebenschlaefer][youtube] 👋
 
-[![Youtube](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/channel/UCKLloFoVPy84dioQ_5BPWQw)
+[![Youtube](https://img.shields.io/youtube/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/channel/UCKLloFoVPy84dioQ_5BPWQw)
 
 ## I'm a Student, Developer, and 3D Printer!!
 
