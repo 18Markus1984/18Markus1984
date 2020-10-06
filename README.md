@@ -58,7 +58,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [3D printed magnatic stirrer](https://www.instructables.com/3D-Printed-Magnatic-Stirrer/)
-- [Ender3 Plotter with BLtouch](https://www.instructables.com/Ender-3-Plotter-With-BLtouch-Remix/)
+- [Ender 3 Plotter with BLtouch](https://www.instructables.com/Ender-3-Plotter-With-BLtouch-Remix/)
 - [USB Cryptex Remix](https://www.instructables.com/USB-Cryptex-Remix/)
 - [Question Block Remix](https://www.instructables.com/Question-Block-Remix/)
 - [Headphone Organizer](https://www.instructables.com/HeadphoneholderSilly-Solution/)
