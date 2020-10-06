@@ -33,6 +33,9 @@
 [<img align="left" alt="Arduino" width="26px" src="https://www.heise.de/download/media/arduino-ide-84057/arduino-logo_1-1-30.png" />][]
 [<img align="left" alt="RaspberryPi" width="26px" src="https://i.pinimg.com/originals/6e/de/a8/6edea84dffc69d2c190c427be484143c.png" />][]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
+[<img align="left" alt="C#" width="26px" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" />][]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />][]
+
 
 <br />
 <br />
