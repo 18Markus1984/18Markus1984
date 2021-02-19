@@ -6,7 +6,7 @@
 - 🔭 I started to learn a littlebit Python
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Create a small working AI
+- 🥅 2021 Goals: Create a small working AI
 - ⚡ Fun fact: I love to 3d print, build robots and develop things
 
 ### Spotify Playing 🎧
