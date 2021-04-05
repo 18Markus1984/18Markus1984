@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.gruensteinhof.de/logo/youtube.png" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.uni-giessen.de/fbz/fb04/institute/geschichte/fachjournalistik/bilder/Logos/YouTube-logo/image_preview" />][youtube]
 [<img align="left" alt="codeSTACKr | Instructables" width="22px" src="https://www.instructables.com/assets/img/instructables-logo-v2.png" />][instructables]
 [<img align="left" alt="codeSTACKr | Thingiverse" width="22px" src="https://files.cults3d.com/uploaders/14044687/illustration-file/01730ffa-6c92-4835-94d7-caa4177a236f/Thingiverse_large.png" />][thingiverse]
 [<img align="left" alt="codeSTACKr | MyMiniFactory" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVVB0VXX9uS1OIWTH4uYrtGqqx_kI3yK9MbQ&usqp=CAU" />][myminifactory]
