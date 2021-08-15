@@ -9,9 +9,6 @@
 - 🥅 2021 Goals: Create a small working AI
 - ⚡ Fun fact: I love to 3d print, build robots and develop things
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/6RJmanQFjl9D89RQfyLByD?si=s2g8fJKSRbu6qQ1pR7hILw)
 
 ### Connect with me:
 
