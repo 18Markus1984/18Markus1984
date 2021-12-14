@@ -17,7 +17,7 @@
 [<img align="left" alt="codeSTACKr | Thingiverse" width="22px" src="https://files.cults3d.com/uploaders/14044687/illustration-file/01730ffa-6c92-4835-94d7-caa4177a236f/Thingiverse_large.png" />][thingiverse]
 [<img align="left" alt="codeSTACKr | MyMiniFactory" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVVB0VXX9uS1OIWTH4uYrtGqqx_kI3yK9MbQ&usqp=CAU" />][myminifactory]
 [<img align="left" alt="codeSTACKr | Cults" width="22px" src="https://pbs.twimg.com/profile_images/378800000509674306/abac759daf6b662ba7fbd7112f9db559_400x400.png" />][cults]
-[<img align="left" alt="codeSTACKr | Etsy" width="22px" src="https://www.accountone.de/wp-content/uploads/2021/05/icon-etsy-app@2x.png" />][Etsy]
+[<img align="left" alt="codeSTACKr | Etsy" width="22px" src="https://www.accountone.de/wp-content/uploads/2021/05/icon-etsy-app@2x.png" />]
 
 
 <br />
