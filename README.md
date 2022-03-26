@@ -13,6 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.uni-giessen.de/fbz/fb04/institute/geschichte/fachjournalistik/bilder/Logos/YouTube-logo/image_preview" />][youtube]
+[<img align="left" alt="codeSTACKr | PrusaPrinters" width="22px" src="https://cdn.help.prusa3d.com/wp-content/uploads/PSlogo-1.jpg" />][prusaprinters]
 [<img align="left" alt="codeSTACKr | Instructables" width="22px" src="https://www.instructables.com/assets/img/instructables-logo-v2.png" />][instructables]
 [<img align="left" alt="codeSTACKr | Thingiverse" width="22px" src="https://files.cults3d.com/uploaders/14044687/illustration-file/01730ffa-6c92-4835-94d7-caa4177a236f/Thingiverse_large.png" />][thingiverse]
 [<img align="left" alt="codeSTACKr | MyMiniFactory" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVVB0VXX9uS1OIWTH4uYrtGqqx_kI3yK9MbQ&usqp=CAU" />][myminifactory]
@@ -69,6 +70,7 @@
 
 [youtube]: https://www.youtube.com/channel/UCKLloFoVPy84dioQ_5BPWQw
 [thingiverse]: https://www.thingiverse.com/threed_designer/designs
+[prusaprinters]: https://www.prusaprinters.org/social/194698-max-siebenschlafer/about
 [myminifactory]: https://www.myminifactory.com/users/threeD_Designer
 [instructables]: https://www.instructables.com/member/Max%20Siebenschl%C3%A4fer/instructables/
 [twitch]: https://www.twitch.tv/maxsiebenschlaefer
