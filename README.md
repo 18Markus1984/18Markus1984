@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.uni-giessen.de/fbz/fb04/institute/geschichte/fachjournalistik/bilder/Logos/YouTube-logo/image_preview" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YouTube_social_red_square_%282017%29.svg/2048px-YouTube_social_red_square_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="codeSTACKr | PrusaPrinters" width="22px" src="https://cdn.help.prusa3d.com/wp-content/uploads/PSlogo-1.jpg" />][prusaprinters]
 [<img align="left" alt="codeSTACKr | Instructables" width="22px" src="https://www.instructables.com/assets/img/instructables-logo-v2.png" />][instructables]
 [<img align="left" alt="codeSTACKr | Thingiverse" width="22px" src="https://files.cults3d.com/uploaders/14044687/illustration-file/01730ffa-6c92-4835-94d7-caa4177a236f/Thingiverse_large.png" />][thingiverse]
