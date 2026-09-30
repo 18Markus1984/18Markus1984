@@ -1,37 +1,53 @@
-### Hi there, I'm Markus - aka [MaxSiebenschlaefer][youtube] 👋
+### Hi there, I'm Markus – aka [Max Siebenschläfer][youtube] 👋
 
+**Maker · Mechatronics engineer · Industrial engineering student**
 
-## I'm a Student, Developer, and 3D Printer!!
+I build things that blink, move, weigh, cut and count – mostly with an ESP32, a 3D printer and far too many ideas at once.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to 3d print, build robots and develop things
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | PrusaPrinters" width="22px" src="https://cdn.help.prusa3d.com/wp-content/uploads/PSlogo-1.jpg" />][prusaprinters]
-[<img align="left" alt="codeSTACKr | Instructables" width="22px" src="https://www.instructables.com/assets/img/instructables-logo-v2.png" />][instructables]
-[<img align="left" alt="codeSTACKr | Cults" width="22px" src="https://pbs.twimg.com/profile_images/378800000509674306/abac759daf6b662ba7fbd7112f9db559_400x400.png" />][cults]
-
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Unity" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Arduino" width="26px" src="https://www.heise.de/download/media/arduino-ide-84057/arduino-logo_1-1-30.png" />
-<img align="left" alt="RaspberryPi" width="26px" src="https://i.pinimg.com/originals/6e/de/a8/6edea84dffc69d2c190c427be484143c.png" />
-<img align="left" alt="C#" width="26px" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" />
-
-<br />
-<br />
+- M.Sc. student in Industrial Engineering (Wirtschaftsingenieurwesen) at [THM](https://www.thm.de) – B.Sc. in Mechatronics
+- Makerspace person at heart: workshops on mold making, cutting plotters & more with OpenA5
+- 3D printing & publishing designs on [Printables][printables] – robot arms, gadgets, organizers and tiny deck boxes
+- Embedded projects with ESP32 / ESP8266, Arduino & Raspberry Pi – displays, sensors, stepper motors, web interfaces
+- Always happy to collaborate with other makers and content creators
 
 ---
 
-### 📺 Latest YouTube Videos
+### Featured Projects
+
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [**Esp_Scale**](https://github.com/18Markus1984/Esp_Scale) | Round touchscreen kitchen & workshop scale with recipe, counting, filament-spool and target-weight modes, SD logging and OTA updates via GitHub Releases | ESP32-S3, LVGL, HX711 |
+| **Kabeltrenner3000** | Cable cutting & stripping machine – enter length and strip settings in the browser, the machine does the rest | ESP32, TMC2209, web server |
+| **Printables Stats Counter** | Physical display that shows my live Printables stats (plus a YouTube subscriber counter version) | ESP8266, MAX7219, GraphQL |
+| **Visitor Counter** | Battery-powered event/visitor counter with WiFi, SD card logging and 7-segment display, plus an Excel analysis workbook | ESP32, WiFiManager |
+| **A1 Plate Swapper** | DIY automatic build-plate exchange for the Bambu Lab A1 | G-code, 3MF, 3D printing |
+
+---
+
+### Languages & Tools
+
+[![Skills](https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,python,cs,html,js,mysql,unity,git,vscode,blender&perline=12)](https://skillicons.dev)
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![LVGL](https://img.shields.io/badge/LVGL-343839?style=flat-square)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?style=flat-square)
+![Laser cutting](https://img.shields.io/badge/Laser%20cutting-555555?style=flat-square)
+
+---
+
+### Find me online
+
+[![Printables](https://img.shields.io/badge/Printables-FA6831?style=for-the-badge&logo=printables&logoColor=white)][printables]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Instructables](https://img.shields.io/badge/Instructables-FAB306?style=for-the-badge&logo=instructables&logoColor=white)][instructables]
+[![Thingiverse](https://img.shields.io/badge/Thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white)][thingiverse]
+[![Cults3D](https://img.shields.io/badge/Cults3D-8C4FFF?style=for-the-badge)][cults]
+
+---
+
+### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [How to 3D print your brain with an MRI scan](https://www.youtube.com/watch?v=b8GYitFu2OY&t)
@@ -40,11 +56,9 @@
 - [3D printed Arduino Fake Bombe](https://www.youtube.com/watch?v=K47BuDPVzD0&t)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...][youtube]
+[More videos →][youtube]
 
----
-
-### 📕 Latest Blog Posts
+### Latest Instructables
 
 <!-- BLOG-POST-LIST:START -->
 - [3D printed magnatic stirrer](https://www.instructables.com/3D-Printed-Magnatic-Stirrer/)
@@ -54,17 +68,14 @@
 - [Headphone Organizer](https://www.instructables.com/HeadphoneholderSilly-Solution/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...][instructables]
+[More Instructables →][instructables]
 
 ---
 
-
+<p align="center"><i>Fun fact: I learned something new with every project – and broke something with most of them.</i></p>
 
 [youtube]: https://www.youtube.com/channel/UCKLloFoVPy84dioQ_5BPWQw
-[thingiverse]: https://www.thingiverse.com/threed_designer/designs
-[prusaprinters]: https://www.prusaprinters.org/social/194698-max-siebenschlafer/about
-[myminifactory]: https://www.myminifactory.com/users/threeD_Designer
+[printables]: https://www.printables.com/@MaxSiebenschlafer
 [instructables]: https://www.instructables.com/member/Max%20Siebenschl%C3%A4fer/instructables/
-[twitch]: https://www.twitch.tv/maxsiebenschlaefer
+[thingiverse]: https://www.thingiverse.com/threed_designer/designs
 [cults]: https://cults3d.com/en/users/maxsiebenschlaefer13/creations
-[Etsy]: https://www.etsy.com/de/shop/ThreeDDesigner
