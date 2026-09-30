@@ -17,10 +17,8 @@ I build things that blink, move, weigh, cut and count – mostly with an ESP32, 
 | Project | What it does | Tech |
 | --- | --- | --- |
 | [**Esp_Scale**](https://github.com/18Markus1984/Esp_Scale) | Round touchscreen kitchen & workshop scale with recipe, counting, filament-spool and target-weight modes, SD logging and OTA updates via GitHub Releases | ESP32-S3, LVGL, HX711 |
-| **Kabeltrenner3000** | Cable cutting & stripping machine – enter length and strip settings in the browser, the machine does the rest | ESP32, TMC2209, web server |
 | **Printables Stats Counter** | Physical display that shows my live Printables stats (plus a YouTube subscriber counter version) | ESP8266, MAX7219, GraphQL |
-| **Visitor Counter** | Battery-powered event/visitor counter with WiFi, SD card logging and 7-segment display, plus an Excel analysis workbook | ESP32, WiFiManager |
-| **A1 Plate Swapper** | DIY automatic build-plate exchange for the Bambu Lab A1 | G-code, 3MF, 3D printing |
+| [**Visitor Counter**](https://github.com/18Markus1984/ESP_Logger) | Battery-powered event/visitor counter with WiFi, SD card logging and 7-segment display, plus an Excel analysis workbook | ESP32, WiFiManager |
 
 ---
 
