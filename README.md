@@ -17,7 +17,7 @@ I build things that blink, move, weigh, cut and count – mostly with an ESP32, 
 | Project | What it does | Tech |
 | --- | --- | --- |
 | [**Esp_Scale**](https://github.com/18Markus1984/Esp_Scale) | Round touchscreen kitchen & workshop scale with recipe, counting, filament-spool and target-weight modes, SD logging and OTA updates via GitHub Releases | ESP32-S3, LVGL, HX711 |
-| **Printables Stats Counter** | Physical display that shows my live Printables stats (plus a YouTube subscriber counter version) | ESP8266, MAX7219, GraphQL |
+| [**Printables Stats Counter**](https://github.com/18Markus1984/trophy-counter) | Physical display that shows my live Printables stats (plus a YouTube subscriber counter version) | ESP8266, MAX7219, GraphQL |
 | [**Visitor Counter**](https://github.com/18Markus1984/ESP_Logger) | Battery-powered event/visitor counter with WiFi, SD card logging and 7-segment display, plus an Excel analysis workbook | ESP32, WiFiManager |
 
 ---
