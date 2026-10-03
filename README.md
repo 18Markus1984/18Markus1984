@@ -17,8 +17,14 @@ I build things that blink, move, weigh, cut and count – mostly with an ESP32, 
 | Project | What it does | Tech |
 | --- | --- | --- |
 | [**Esp_Scale**](https://github.com/18Markus1984/Esp_Scale) | Round touchscreen kitchen & workshop scale with recipe, counting, filament-spool and target-weight modes, SD logging and OTA updates via GitHub Releases | ESP32-S3, LVGL, HX711 |
-| [**Printables Stats Counter**](https://github.com/18Markus1984/trophy-counter) | Physical display that shows my live Printables stats (plus a YouTube subscriber counter version) | ESP8266, MAX7219, GraphQL |
-| [**Visitor Counter**](https://github.com/18Markus1984/ESP_Logger) | Battery-powered event/visitor counter with WiFi, SD card logging and 7-segment display, plus an Excel analysis workbook | ESP32, WiFiManager |
+| **Kabeltrenner3000** | Cable cutting & stripping machine – enter length and strip settings in the browser, the machine does the rest | ESP32, TMC2209, web server |
+| [**MahrExtremess2001**](https://github.com/18Markus1984/MahrExtremess2001) | Low-cost interface for the Mahr Extramess 2001 dial gauge – replaces the expensive original cable and software, with a 3D-printed housing | ESP32-C3 |
+| [**3D-Tetris**](https://github.com/18Markus1984/3D-Tetris) | Tetris on a self-built 3×3×12 LED cube, controlled through a web interface | ESP32, LEDs, web server |
+| [**Volume-Knob**](https://github.com/18Markus1984/Volume-Knob) | USB-C desk knob for volume and mute, with a 3D-printed enclosure | Arduino Pro Micro, rotary encoder |
+| [**trophy-counter**](https://github.com/18Markus1984/trophy-counter) | Wall trophy showing my live Printables and YouTube numbers | ESP8266, 7-segment, GraphQL |
+| [**ESP_Logger**](https://github.com/18Markus1984/ESP_Logger) | Battery-powered event/visitor counter with WiFi, SD card logging and 7-segment display, plus an Excel analysis workbook | ESP32, WiFiManager |
+| **A1 Plate Swapper** | DIY automatic build-plate exchange for the Bambu Lab A1 | G-code, 3MF, 3D printing |
+| [**FindeTheBread**](https://github.com/18Markus1984/FindeTheBread) | My very first Unity game – where it all started | Unity, C# |
 
 ---
 
